@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: aquamarine;
+}
+
+.qator {
+    display: flex;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-bottom: 120px;
+
+}
+
+#facebook {
+    font-size: 80px;
+    background-color: white;
+
+}
+
+#twit {
+    font-size: 80px;
+    background-color: white;
+    color: blue;
+}
+
+#google {
+    font-size: 80px;
+    background-color: white;
+    color: orange;
+}
+
+#linke {
+    font-size: 80px;
+    background-color: white;
+    color: rgb(0, 255, 208);
+}
+
+#youtube {
+    font-size: 80px;
+    background-color: white;
+    color: red;
+}
+
+#insta {
+    font-size: 80px;
+    background-color: white;
+    color: rgb(157, 0, 255);
+}
+
+#pinter {
+    font-size: 80px;
+    background-color: white;
+    color: red;
+}
+
+#snap {
+    font-size: 80px;
+    background-color: white;
+    color: yellow;
+}
+
+#skyp {
+    font-size: 80px;
+    background-color: white;
+    color: rgb(0, 255, 115);
+}
+
+#andr {
+    font-size: 80px;
+    background-color: white;
+    color: green;
+}
+
+#globe {
+    font-size: 80px;
+    background-color: white;
+    color: rgb(255, 1, 238);
+}
+
+#vm {
+    font-size: 80px;
+    background-color: white;
+    color: blue;
+}
+
+#vkg {
+    font-size: 80px;
+    background-color: white;
+    color: aqua;
+}
+
+#tum {
+    font-size: 80px;
+    background-color: white;
+    color: rgb(0, 179, 255);
+}
+
+#rss {
+    font-size: 80px;
+    background-color: white;
+    color: orange;
+}
+
+#red {
+    font-size: 80px;
+    background-color: white;
+    color: orange;
+}
+
+#what {
+   
+    background-color: white;
+    color: rgb(51, 255, 0);
+}
+
+#tele {
+    
+  background-color: white;
+    color: blue;
+}
+
+.qator a {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    padding: 40px;
+    margin-right: 120px;
+    font-size: 80px;
+}
+
+.qator a:hover{
+    background-color: red;
+     color: red;
+}
+.qator .fa-facebook-f:hover{
+   background-color: red;
+}
